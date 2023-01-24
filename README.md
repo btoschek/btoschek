@@ -2,7 +2,7 @@
 
 ---
 
-### :mag: About me:
+### :mag: About me :
 
 - :zap: I'm currently studying for my Bachelor in Automation Engineering and Robotics
 

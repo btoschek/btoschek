@@ -6,7 +6,7 @@
 
 - :zap: I'm currently studying for my Bachelor in Automation Engineering and Robotics
 
-- :telescope: In my free time I'm programming on [different things](https://github.com/btoschek?tab=repositories)
+- :telescope: In my free time I'm programming [different things](https://github.com/btoschek?tab=repositories)
 
 ---
 

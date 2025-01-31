@@ -32,4 +32,4 @@ I am a programming hobbyist having studied Electrical Engineering for 3.5 years 
 
 ### :hammer_and_wrench: I enjoy working with
 
-![My Skills](https://skillicons.dev/icons?i=arch,linux,neovim,nix,postgres,latex,python,rust,html,css,sass,js,docker,git,github&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,neovim,nix,postgres,latex,python,rust,html,css,sass,js,docker,git,github&theme=dark)](https://github.com/btoschek?tab=repositories)

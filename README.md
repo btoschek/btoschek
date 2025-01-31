@@ -19,7 +19,7 @@ I am a programming hobbyist having studied Electrical Engineering for 3.5 years 
 
 ---
 
-### My Opensource Story
+### :chart_with_upwards_trend: My Opensource Story
 
 - [hsc-template](https://github.com/btoschek/hsc-template) - A LaTeX template used in creating scientific documents to hand in for assignments at university.
   Within a couple months it became widely used among students and got recommended by multiple professors.

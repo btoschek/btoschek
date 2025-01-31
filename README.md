@@ -15,7 +15,7 @@ This is the place where most of my passion projects are stored
 
 ### ✨ About Me
 
-I am a programming hobbyist having studied Electrical Engineering for 3.5 years just to end up programming anyways :sweat_smile: (now for big machines though :smile:)
+I am a programming hobbyist having studied Electrical Engineering for 3.5 years just to end up doing programming anyways :sweat_smile: (now for big machines though :smile:)
 
 ---
 

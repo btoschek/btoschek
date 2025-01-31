@@ -7,7 +7,7 @@
 This is the place where most of my passion projects are stored
 
 - :zap: &nbsp; I have a Bachelor's degree in Automation Engineering and Robotics (Electrical Engineering)
-- :computer: &nbsp; I'm currently working as software developer programming machine PLCs
+- :computer: &nbsp; I'm currently working as a software developer for machine PLCs
 - :seedling: &nbsp; I'm actively learning Rust &amp; Nix in my free time
 - :floppy_disk: &nbsp; I'm currently working on setting up my homelab using NixOS
 

@@ -1,33 +1,35 @@
-[![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=btoschek&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/btoschek?tab=repositories)
+<p align="center">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=btoschek&data=followers,repositories,stars,commits&theme=nautilus" />
+</p>
+
+### :wave: Hi there
+
+This is the place where most of my passion projects are stored
+
+- :zap: &nbsp; I have a Bachelor's degree in Automation Engineering and Robotics (Electrical Engineering)
+- :computer: &nbsp; I'm currently working as software developer programming machine PLCs
+- :seedling: &nbsp; I'm actively learning Rust &amp; Nix in my free time
+- :floppy_disk: &nbsp; I'm currently working on setting up my homelab using NixOS
 
 ---
 
-### :mag: About me
+### ✨ About Me
 
-- :zap: I'm currently studying for my Bachelor in Automation Engineering and Robotics
-
-- :telescope: In my free time I'm programming [different things](https://github.com/btoschek?tab=repositories)
+I am a programming hobbyist having studied Electrical Engineering for 3.5 years just to end up programming anyways :sweat_smile: (now for big machines though :smile:)
 
 ---
 
-### :hammer_and_wrench: Languages & Tools
+### My Opensource Story
 
-<div>
-  <a href="https://github.com/search?q=owner%3Abtoschek+language%3ARust+&type=repositories"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/></a>&nbsp;
-  <a href="https://github.com/btoschek/.dotfiles/tree/main/.config/nvim"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/></a>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
-  <a href="https://github.com/search?q=owner%3Abtoschek+language%3ACSS+&type=repositories"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/></a>&nbsp;
-  <a href="https://github.com/search?q=owner%3Abtoschek+language%3ASass+&type=repositories"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/></a>&nbsp;
-  <a href="https://github.com/search?q=owner%3Abtoschek+language%3AHTML+&type=repositories"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/></a>&nbsp;
-  <a href="https://github.com/search?q=owner%3Abtoschek+language%3AJavaScript+&type=repositories"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/></a>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <a href="https://github.com/search?q=owner%3Abtoschek+language%3APython+&type=repositories"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
-  <a href="https://github.com/search?q=owner%3Abtoschek+language%3ATeX+&type=repositories"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/></a>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+- [hsc-template](https://github.com/btoschek/hsc-template) - A LaTeX template used in creating scientific documents to hand in for assignments at university.
+  Within a couple months it became widely used among students and got recommended by multiple professors.
+  As of September 5th, 2024 it is being [officially continued by UAS Coburg](https://github.com/hscoburg/FEIF-thesis-and-report-template).
+- [lorelei](https://github.com/btoschek/lorelei) - A Discord bot used to provide a customized music streaming experience to me and my friends.
+  This is probably the first bigger project I have done in Rust. And it's still going!
+- :telescope: Hopefully many more projects to come ...
 
 ---
 
-### :fire: My Stats
+### :hammer_and_wrench: I enjoy working with
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=btoschek&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/btoschek?tab=repositories)
+![My Skills](https://skillicons.dev/icons?i=arch,linux,neovim,nix,postgres,latex,python,rust,html,css,sass,js,docker,git,github&theme=dark)
